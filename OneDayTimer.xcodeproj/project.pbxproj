@@ -51,6 +51,7 @@
 		8A3035FA2B94D7EB00496128 /* OneDayTimer */ = {
 			isa = PBXGroup;
 			children = (
+				8A3036092B94DAA800496128 /* Model */,
 				8A3035FB2B94D7EB00496128 /* OneDayTimerApp.swift */,
 				8A3035FD2B94D7EB00496128 /* ContentView.swift */,
 				8A3035FF2B94D7ED00496128 /* Assets.xcassets */,
@@ -65,6 +66,13 @@
 				8A3036022B94D7ED00496128 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		8A3036092B94DAA800496128 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
